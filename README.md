@@ -3,3 +3,5 @@
 Добавили текст
 
 Add new text from web browser
+
+Добавим текст локально
